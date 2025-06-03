@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azamjonbro" alt="azamjonbro" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/azamjonbro" target="blank"><img src="https://img.shields.io/twitter/follow/azamjonbro?logo=twitter&style=for-the-badge" alt="azamjonbro" /></a> </p>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?azamjonbro=ffflabs)](https://github.com/azamjonbro/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azamjonbro)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on **Algoritm**
 
